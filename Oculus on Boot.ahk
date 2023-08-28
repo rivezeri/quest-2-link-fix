@@ -1,6 +1,6 @@
 ﻿#NoTrayIcon
 
-serial := "1WMHHA62R81464"
+serial := ""
 wrkDir := "C:\Program Files\Oculus\Support\oculus-client"
 oculusClient := "C:\Program Files\Oculus\Support\oculus-client\OculusClient.exe"
 vrMonitor := "C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrmonitor.exe"
