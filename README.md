@@ -30,7 +30,7 @@ AutoHotKey script communicates from the point of the acting client. Sending comm
 
 Do note the F23 keybind. To use this script on clicking the script, simply remove the F21:: {} brackets.
 
-After reboot, the headset will launch the Link activity repeatedly until Dash is loaded and the service finishes. This effectively removes so many headaches.
+After reboot, the headset will launch the Link activity repeatedly until Dash is loaded and the service finishes. This effectively removes so many headaches. Oculus on Boot is an example of this (and outdated).
 
 ### Also recommended: [Oculus Killer](https://github.com/LibreQuest/OculusKiller).
 This tool goes even further and going right to SteamVR. Saving heaps worth in performance.
