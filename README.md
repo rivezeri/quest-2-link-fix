@@ -14,7 +14,7 @@ etc. etc.
 
 Traditionally, the Quest 2 will load each service, which is then immediately interrupted by the Guardian utility. A simple way to notate and check such fault is through use of ADB/Android Developer tools. Such information can be enabled by becoming a developer over your device. With such tool connected, run:
 
-code(adb shell 'dumpsys activity | grep mCurrentUser')
+```adb shell 'dumpsys activity | grep mCurrentUser'```
 
 Repeatedly running this will show the exact point of execution in such device, therefore showcasing the fault in this headset.
 
