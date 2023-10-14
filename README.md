@@ -19,6 +19,7 @@ Traditionally, the Quest 2 will load each service, which is then immediately int
 Repeatedly running this will show the exact point of execution in such device, therefore showcasing the fault in this headset.
 
 In order for this script to work, the following dependencies must be met:
+* AutoHotKey
 * ADB
 * Developer options on the Quest
 * Replacing the serial := variable with your unique devices serial number. This is found by listing adb devices.
