@@ -28,6 +28,8 @@ In order for this script to work, the following dependencies must be met:
 
 AutoHotKey script communicates from the point of the acting client. Sending commands to the headset, following with such checks and edge cases. The headset first starts by rebooting and restarting the Oculus software. Cutting down communication fuss and waiting until each service is respectively loaded. There is a means for restarting the service through AutoHotKey, however running such process requires UAC. This is a less invasive measure.
 
+Do note the F23 keybind. To use this script on clicking the script, simply remove the F21:: {} brackets.
+
 After reboot, the headset will launch the Link activity repeatedly until Dash is loaded and the service finishes. This effectively removes so many headaches.
 
 ### Also recommended: [Oculus Killer](https://github.com/LibreQuest/OculusKiller).
