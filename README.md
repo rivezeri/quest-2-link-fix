@@ -22,7 +22,7 @@ Repeatedly running this will show the exact point of execution in such device, t
 In order for this script to work, the following dependencies must be met:
 * AutoHotKey
 * ADB
-* Developer options on the Quest
+* Developer options on the Quest (and marking your desktop as a trusted device to send commands)
 * Replacing the serial := variable with your unique devices serial number. This is found by listing adb devices.
 * Grep
 * Disabling Guardian (unfortunately. Use OVR Advanced Settings to alleviate any issue)
