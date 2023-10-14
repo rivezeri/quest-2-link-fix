@@ -28,4 +28,4 @@ AutoHotKey script communicates from the point of the acting client. Sending comm
 
 After reboot, the headset will launch the Link activity repeatedly until Dash is loaded and the service finishes. This effectively removes so many headaches.
 
-### Also recommended: [https://github.com/LibreQuest/OculusKiller](Oculus Killer)
+### Also recommended: [Oculus Killer](https://github.com/LibreQuest/OculusKiller)
