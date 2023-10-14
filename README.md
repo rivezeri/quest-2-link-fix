@@ -8,6 +8,7 @@ Oculus Link shares great fault in communication between a native Windows system 
 * Not providing sound between either client
 * Abruptly ending the session between either system
 * Crashing the Quest 2's entire operating system, thus causing a reboot
+* Link breaking on restart, causing unplugging and replugging the cable back in.
 etc. etc.
 
 ### This is an issue in the Quest 2's guardian system.
