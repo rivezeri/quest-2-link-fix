@@ -57,6 +57,8 @@ PS C:\Users\Rhys> adb devices
 List of devices attached
 (extracted serial #)  device
 ```
+From running this command, you'll receive a screen on the Quest that requests authorization. Mark always accept and move on.
+
 Take (extracted serial #), and replace the "serial" inside the code block. ie
 ```serial := "(extracted serial #)" ```
 - Simply double click, the headset will have restart sent to it, all Oculus services will restart, wait for the process to populate, launch Link, and everything will work without a hitch.
