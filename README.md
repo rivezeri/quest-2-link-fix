@@ -42,6 +42,13 @@ This tool goes even further and going right to SteamVR. Saving heaps worth in pe
 - Register your Quest for Developer settings (This changes so often, it's best to follow Meta's documentation). [Developer account](https://developer.oculus.com/sign-up/)
 This allows modification (ADB commands) to be sent to the headset. This is required to hijack MainActivity, set timeouts, and restart the headset.
 - Enable developer mode on the Meta Horizon app. (This also changes so often, I'd recommend following documentation).
+- Install choco, the Windows package manager.
+
+From choco, we can satisfy the needed dependencies with
+```
+choco install grep adb autohotkey
+```
+
 - Run 'adb devices'. Extract the serial number string from the headset's listing.
 
 Example output:
