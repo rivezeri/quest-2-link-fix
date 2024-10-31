@@ -57,5 +57,6 @@ PS C:\Users\Rhys> adb devices
 List of devices attached
 (extracted serial #)  device
 ```
-Take (extracted serial #), and replace the "serial" inside the code block.
+Take (extracted serial #), and replace the "serial" inside the code block. ie
+```serial := "(extracted serial #)" ```
 - Simply double click, the headset will have restart sent to it, all Oculus services will restart, wait for the process to populate, launch Link, and everything will work without a hitch.
