@@ -44,7 +44,7 @@ This allows modification (ADB commands) to be sent to the headset. This is requi
 - Enable developer mode on the Meta Horizon app. (This also changes so often, I'd recommend following documentation).
 - Install choco, the Windows package manager.
 
-From choco, we can satisfy the needed dependencies with
+From choco, we can satisfy the needed dependencies with:
 ```
 choco install grep adb autohotkey
 ```
