@@ -1,6 +1,6 @@
 ﻿# quest-2-link-fix
 
-A case study/solution Meta Quest Link shortcomings. Play Link the right way!
+A case study/solution Meta Quest Link shortcomings. This is not a summative fix. This is a proposal and a workaround to the inherent fundamental issues with the Meta Quest 2's wired linking system.
 
 Oculus Link shares great fault in communication between a native Windows system and its Android operating system. Such faults include:
 
